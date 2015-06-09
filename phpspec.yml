@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: ConsultaMedica
+        psr4_prefix: ConsultaMedica
+        src_path: app
