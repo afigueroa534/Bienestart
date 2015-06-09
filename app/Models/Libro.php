@@ -10,7 +10,7 @@ class Libro extends Model //implements AuthenticatableContract, CanResetPassword
 
    // use Authenticatable, CanResetPassword;
 {
-
+	//prueba
     protected $table = 'libros';
 
 
