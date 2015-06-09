@@ -12,6 +12,7 @@ class CreateTables extends Migration {
 	 */
 	public function up()
 	{
+		//base de datos
 		Schema::create('persona', function(Blueprint $table)
 		{
 
